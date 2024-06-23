@@ -48,7 +48,7 @@ python stko.py <input_file_path> <output_file_path> <log_level>
 Example:
 
 ```python
-python script.py domains.txt results.txt INFO
+python stko.py domains.txt results.txt INFO
 ```
 
 ## Configuration
