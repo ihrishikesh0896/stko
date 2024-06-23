@@ -2,9 +2,10 @@
 
 ```markdown
 # Subdomain Vulnerability Scanner - This project provides a Python-based tool designed to help beginners understand and explore the world of scripting, subdomains, and security vulnerabilities related to subdomain takeovers. It combines practical Python scripting tasks with security checks, offering a hands-on approach to learning.
- 
+
 
 This project contains a Python script that combines direct subdomain vulnerability checking with a comprehensive `nuclei` scan to identify potential security issues. The script reads subdomains from a specified file, checks for common vulnerability indicators via HTTP requests, and utilizes `nuclei` for advanced scanning.
+ ```
 
 ## Features
 
